@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hella/static/css/main.9fb10849.css",
+    "main.js": "/hella/static/js/main.1184734e.js",
+    "static/media/worldmap.jpg": "/hella/static/media/worldmap.42dfad665b600d16355d.jpg",
+    "static/media/businessportfollio.jpg": "/hella/static/media/businessportfollio.29cff528e10fad8befe1.jpg",
+    "static/media/jointventures.jpg": "/hella/static/media/jointventures.6951868af289c00c4af7.jpg",
+    "static/media/historyphoto.jpg": "/hella/static/media/historyphoto.51e0cbac25dde59fa43f.jpg",
+    "static/media/background.jpg": "/hella/static/media/background.ea9ed0bb3e15973ac62f.jpg",
+    "static/media/facts.jpg": "/hella/static/media/facts.9442090be672ef8b4573.jpg",
+    "static/media/heroImg3.png": "/hella/static/media/heroImg3.a9a7e8f82275d3cc2e36.png",
+    "static/media/heroImg1.jpg": "/hella/static/media/heroImg1.dd1855c28467904d1584.jpg",
+    "static/media/heroImg2.jpg": "/hella/static/media/heroImg2.c8e264e691b50931df8b.jpg",
+    "static/media/hellaLogo.svg": "/hella/static/media/hellaLogo.70db119f07aba2eb0fde700d29316976.svg",
+    "index.html": "/hella/index.html",
+    "main.9fb10849.css.map": "/hella/static/css/main.9fb10849.css.map",
+    "main.1184734e.js.map": "/hella/static/js/main.1184734e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fb10849.css",
+    "static/js/main.1184734e.js"
+  ]
+}
